@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-15)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`fabbf5a`](https://github.com/stdlib-js/stdlib/commit/fabbf5abfb781849d460e93dd498cd7d99505678) - **feat:** add `math/base/special/roundf` _(by Gunj Joshi, Philipp Burckhardt)_
 
 </details>
